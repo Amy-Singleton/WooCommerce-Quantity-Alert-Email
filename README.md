@@ -32,14 +32,14 @@ The manual installation method involves downloading our plugin and uploading it 
 
 The ftp/sftp installation method involves downloading our plugin and uploading it to your WordPress installation with Filezilla, Putty or BitVise
 
-1. Login to your FTP/SFTP Software in your local development environment
-1. Locate the file you want to upload
-1. Drag the plugin into the wp-content/plugins/ directory
-1. Reset file permissions if necessary
-1. Login to WordPress
-1. Go to Plugins
-1. Locate the plugin you just uploaded
-1. Click->Activate
+1. Login to your FTP/SFTP Software in your local development environment 
+1. Locate the file you want to upload 
+1. Drag the plugin into the wp-content/plugins/ directory 
+1. Reset file permissions if necessary 
+1. Login to WordPress 
+1. Go to Plugins 
+1. Locate the plugin you just uploaded 
+1. Click->Activate 
 
 ## Changelog 
 
