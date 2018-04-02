@@ -19,6 +19,7 @@ Add a custom WooCommerce email that sends admins an email when 50 or more produc
 ### Manual installation
 
 The manual installation method involves downloading our plugin and uploading it to your WordPress installation via the Plugins Admin Page
+
 1. Login to WordPress
 1. Click Plugins->Add New
 1. Click the Upload Plugin button
@@ -29,7 +30,8 @@ The manual installation method involves downloading our plugin and uploading it 
 
 ### FTP/SFTP installation
 
-<p>The ftp/sftp installation method involves downloading our plugin and uploading it to your WordPress installation with Filezilla, Putty or BitVise</p>
+The ftp/sftp installation method involves downloading our plugin and uploading it to your WordPress installation with Filezilla, Putty or BitVise
+
 1. Login to your FTP/SFTP Software in your local development environment
 1. Locate the file you want to upload
 1. Drag the plugin into the wp-content/plugins/ directory
